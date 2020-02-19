@@ -1,4 +1,4 @@
-# Creating-Poll-Express.js-
+# Creating-Poll-Express.js-Ejs-Engine
 ## Project setup
 ```
 npm install
